@@ -1,0 +1,13 @@
+@media screen and (max-width:992px){
+.box{
+    text-align: center;
+}
+.box img{
+    width: 100%;
+}
+.imagediv{
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+    
